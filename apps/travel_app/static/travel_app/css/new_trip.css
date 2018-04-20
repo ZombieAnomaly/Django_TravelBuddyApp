@@ -1,0 +1,38 @@
+.wrapper{
+    width:90%;
+    margin:auto;
+}
+.wrapper form{
+    width:50%;
+    border:2px inset rgb(153, 152, 152);
+    padding:3%;
+    box-shadow: 5px 5px 5px grey;
+}
+.wrapper input{
+    display:block;
+    margin:10px;
+    width:70%;
+}
+.wrapper input:last-of-type{
+    width:20%;
+    margin-top:0%;
+    border:none;
+    border-radius: 5px;
+    background:blue;
+    color:white;
+    font-size: 1em;
+    box-shadow: 1px 1px 2px black;
+}
+.header{
+    width:5%;
+    display:flex;
+    padding-left:90%;
+    padding-right:5%;
+    margin-top:1%;
+}
+.header a{
+    text-align: right;
+    margin-left:10%;
+    margin-right:10%;
+
+}

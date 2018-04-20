@@ -1,0 +1,15 @@
+.wrapper{
+    width:90%;
+    margin:auto;
+}
+.wrapper form{
+    width:30%;
+}
+.wrapper input{
+    display:block;
+    margin:10px;
+    width:100%;
+}
+.wrapper input:last-of-type{
+    width:50%;
+}
